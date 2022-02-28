@@ -1,0 +1,95 @@
+/* body{
+  min-height: 3000px;
+} */
+
+.jumbotron{
+  /* background-color: #e2edff; */
+  padding-top: 15rem;
+  padding-bottom: 10rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/hero.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.contact{
+  border: 1px solid white;
+  padding: 10px 20px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  width: 100px;
+  height: 50px;
+}
+
+.contact:hover{
+color: white;
+opacity: 0.5;
+}
+
+#about{
+  padding-top: 5rem;
+}
+
+#layanan{
+  background-color: #b6a466;
+}
+
+.card{
+  height: 700px;
+}
+
+.contact-1{
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    width: 100px;
+    height: 50px;
+}
+
+.contact-1:hover{
+  opacity: 0.5;
+  color: white;
+}
+
+.contact-2{
+  background-color: #b6a466;
+    padding: 10px 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    width: 100px;
+    height: 50px;
+}
+
+.contact-2:hover{
+  opacity: 0.5;
+  color: white;
+}
+
+footer{
+  background-color: rgb(58, 51, 51);
+  color: white;
+}
+
+.instagram{
+  color: white;
+  text-decoration: none;
+}
+
+.instagram:hover{
+  color: #b6a466;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  opacity: 0.5;
+  color: white;
+}
