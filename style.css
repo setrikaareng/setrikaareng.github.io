@@ -31,9 +31,8 @@ opacity: 0.5;
   padding-top: 10rem;
 }
 
-video{
-  max-width: 400px;
-  margin-top: 2rem;
+iframe{
+  min-width: 300px;
 }
 
 #layanan{
