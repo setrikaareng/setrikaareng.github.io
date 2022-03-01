@@ -36,8 +36,12 @@ opacity: 0.5;
   background-color: #b6a466;
 }
 
-.card{
+.card-2{
   height: 700px;
+}
+
+.card-1{
+  height: 600px;
 }
 
 .contact-1{
